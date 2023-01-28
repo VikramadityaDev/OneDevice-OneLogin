@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "211159210883",
+    "project_id": "one-device-login-51539",
+    "storage_bucket": "one-device-login-51539.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211159210883:android:4adc4e98a99b5392cbf4b6",
+        "android_client_info": {
+          "package_name": "com.example.one_device_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211159210883-cv4du8a2r1evl4ti1bp6234u8oqkj2vb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.one_device_login",
+            "certificate_hash": "92bee7c12bf457617eac727b7df6136a7d70d825"
+          }
+        },
+        {
+          "client_id": "211159210883-pj26b81480cugq7vlrh67t3agpm4gt99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLtceT-v3z4JDHRUSih_-baooIDRh2ASg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211159210883-pj26b81480cugq7vlrh67t3agpm4gt99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
