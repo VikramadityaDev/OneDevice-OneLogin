@@ -1,5 +1,5 @@
 # OneDevice-OneLogin
-One login in One device functionality using Firebase Authentication, Firestore & Unique Identifier in Flutter.
+This is just an demo for One login in One device functionality using Firebase Authentication, Firestore & Unique Identifier in Flutter.
 
 ## Description
 
